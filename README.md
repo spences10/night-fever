@@ -1,4 +1,4 @@
-# Night Fever 🎶
+# Night Fever 🕺🎶
 
 A Gatsby [#SillySiteChallenge]
 
