@@ -31,7 +31,7 @@
     "@chakra-ui/react": "^1.0.1",
     "@emotion/react": "^11.1.1",
     "@emotion/styled": "^11.0.0",
-    "framer-motion": "^2.9.4",
+    "framer-motion": "^2.9.5",
     "gatsby": "^2.27.3",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-manifest": "^2.6.1",
